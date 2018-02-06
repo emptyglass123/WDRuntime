@@ -39,10 +39,10 @@
     [self test8];// 动态交换两个方法的实现
     [self test9];// 拦截并替换方法
     [self test10];// 进行模型-->字典的转换'
+    [self test10];// 进行模型-->字典的转换
     
-    
-    // 1.0 测试分支效果 ///////
-     [self test10];
+    // 1.0 soursetree  添加备注
+
 }
 
 // 获取WDPersonModel类属性列表
