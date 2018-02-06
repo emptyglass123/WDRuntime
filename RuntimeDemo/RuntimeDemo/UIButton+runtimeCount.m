@@ -33,10 +33,10 @@
     });
 }
 
+// 方法交换
 - (void)mySendAction:(SEL)action to:(id)target forEvent:(UIEvent *)event {
 
     [[WDTool sharedManager] addCount];
-
     [self mySendAction:action to:target forEvent:event];
 }
 
