@@ -27,17 +27,17 @@
     pm.pdelegate = self;
     [pm study];
     
-    [self test1];// 获取WDPersonModel类属性列表
-    [self test2];// 获取WDPersonModel类的方法列表
-    [self test3];// 获取// 获取类方法成员变量
-    [self test4];// 获取协议列表
-    [self test5];// 获取// 获取类方法类方法
-    [self test6];// 获取WDPersonModel类实例方法
-    [self test7];// 添加方法
-    [self test8];// 动态交换两个方法的实现
-    [self test9];// 拦截并替换方法
-    [self test10];// 进行模型-->字典的转换'
-    [self test10];// 进行模型-->字典的转换
+//    [self test1];// 获取WDPersonModel类属性列表
+//    [self test2];// 获取WDPersonModel类的方法列表
+//    [self test3];// 获取// 获取类方法成员变量
+//    [self test4];// 获取协议列表
+//    [self test5];// 获取// 获取类方法类方法
+//    [self test6];// 获取WDPersonModel类实例方法
+//    [self test7];// 添加方法
+//    [self test8];// 动态交换两个方法的实现
+//    [self test9];// 拦截并替换方法
+//    [self test10];// 进行模型-->字典的转换'
+//    [self test10];// 进行模型-->字典的转换
 
 }
 
