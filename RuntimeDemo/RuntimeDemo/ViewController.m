@@ -23,8 +23,6 @@
     
     self.ppp = [[WDPersonModel alloc] init];
 
-
-
     WDPersonModel *pm = [[WDPersonModel alloc] init];
     pm.pdelegate = self;
     [pm study];
@@ -40,12 +38,6 @@
     [self test9];// 拦截并替换方法
     [self test10];// 进行模型-->字典的转换'
     [self test10];// 进行模型-->字典的转换
-    
-    // 1.0 soursetree  添加备注
-    // 2.0 soursetree  添加备注
-    // 3.0 soursetree  添加备注
-    // 4.0 soursetree  添加备注
-
 
 }
 
